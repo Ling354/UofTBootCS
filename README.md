@@ -4,13 +4,15 @@ The files in this repository were used to configure the network depicted below.
 
 (Images/Red-Team Network Diagram.png)
 
-![Red-Team Network Diagram](Diagrams/Red-Team Network Diagram.png)
+![Red-Team Network Diagram](https://github.com/Ling354/UofTBootCS/blob/62776268207472a4a92e74177bee128db647840b/Diagrams/Red-Team%20Network%20Diagram.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
-[install-elk.yml](Ansible/install-elk.yml)
-[filebeat-config.yml](Ansible/filebeat-config.yml)
+[install-elk.yml](Ansible/install-elk.yml) --hit
+
+[filebeat-config.yml](Ansible/filebeat-config.yml) --hit
+
 [metricbeat-config.yml](Ansible/metricbeat-config.yml)
 
 This document contains the following details:
