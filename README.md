@@ -7,9 +7,9 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
-[install-elk.yml](Ansible/install-elk.yml) --hit
+[install-elk.yml](Ansible/install-elk.yml)
 
-[filebeat-config.yml](Ansible/filebeat-config.yml) --hit
+[filebeat-config.yml](Ansible/filebeat-config.yml)
 
 [metricbeat-config.yml](Ansible/metricbeat-config.yml)
 
@@ -35,7 +35,6 @@ Filebeat observes log file data. This can include audit logs, server logs and ot
 Metricbeat records machine metrics like uptime.
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name          | Function      | IP Address | Operating System |
 |---------------|---------------|------------|------------------|
