@@ -2,8 +2,6 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(Images/Red-Team Network Diagram.png)
-
 ![Red-Team Network Diagram](https://github.com/Ling354/UofTBootCS/blob/62776268207472a4a92e74177bee128db647840b/Diagrams/Red-Team%20Network%20Diagram.png)
 
 
@@ -80,7 +78,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-[Elk successfully configured](Diagrams/Elk container screen shot 761.PNG)
+[Elk successfully configured](https://github.com/Ling354/UofTBootCS/blob/9b4bb90e54c3a582282abae4441b2d0269f69e97/Diagrams/Elk%20container%20screen%20shot%20761.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
